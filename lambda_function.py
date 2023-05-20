@@ -20,4 +20,4 @@ def lambda_handler(event, context):
 # lambda_handler({"stockprice":200,"commission":10, "transactiontype":"SELL"}, context=1)
 # lambda_handler({"stockprice":200,"commission":10, "transactiontype":"OTHERS"}, context=1)
 
-print('Version 1.7')
+print('Version 1.8')
